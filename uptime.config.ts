@@ -114,7 +114,7 @@ const workerConfig: WorkerConfig = {
 
 ]
     
-  ],
+},
   // [Optional] Notification settings
   notification: {
     // [Optional] Notification webhook settings, if not specified, no notification will be sent
