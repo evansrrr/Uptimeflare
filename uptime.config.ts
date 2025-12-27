@@ -112,7 +112,7 @@ const workerConfig: WorkerConfig = {
       },
     },
 
-
+]
     
   ],
   // [Optional] Notification settings
